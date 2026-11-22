@@ -282,15 +282,3 @@ Investigate suspicious parent/child relationships, account-management commands e
 - Privileged services and local-only interfaces still need strict trust boundaries.
 - Offensive enumeration techniques are valuable to defenders for validation, threat hunting and root-cause analysis.
 
-## References
-
-- [TryHackMe — Windows Privilege Escalation](https://tryhackme.com/room/windowsprivesc20)
-- [PayloadsAllTheThings — Windows Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
-- [Priv2Admin](https://github.com/gtworek/Priv2Admin)
-- [HackTricks — Windows Local Privilege Escalation](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation)
-- [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
-- [PrivescCheck](https://github.com/itm4n/PrivescCheck)
-
----
-
-*Prepared from the TryHackMe room material and lab methodology. Validate all commands and observations in your own authorised environment before presenting them as personally verified findings.*
